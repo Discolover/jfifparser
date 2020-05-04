@@ -1,0 +1,3 @@
+(A) Fix problem with unknown marker(flower.jpeg FF7C) in entropy data.
+(B) Clean code and read about all external functions I use.
+(C) Learn how to use some metadata fetching tool and give this functionality to my program. Use modular design!!!
